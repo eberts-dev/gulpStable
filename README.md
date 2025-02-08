@@ -1,9 +1,8 @@
 
 
-<p><img style="margin-bottom:0px;" src="ImgReadme/gulp-logo.svg" height="55"/> <h1>Gulp сборка</h1></p>
+<h1>Gulp бандл</h1>
 
 <h3 align="left">Архив для старта</h3>
-
 
 ## Файловая структура
 
